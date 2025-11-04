@@ -105,9 +105,15 @@ The program outputs:
 - Overall opinion score
 
 Example output:
+
 ┌ Info: Results
+
 │   algorithm = "forest"
+
 │   time = 0.2330849
+
 │   precision = 0.99
+
 │   ndcg = 0.999909696019612
+
 └   overall_opinion = 1429.8283731658878
