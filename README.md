@@ -106,14 +106,23 @@ The program outputs:
 
 Example output:
 
+```
 ┌ Info: Results
-
 │   algorithm = "forest"
-
 │   time = 0.2330849
-
 │   precision = 0.99
-
 │   ndcg = 0.999909696019612
-
 └   overall_opinion = 1429.8283731658878
+```
+## Citation
+
+If you use this code in your research, please cite our paper:
+
+```bibtex
+@inproceedings{wang2025opinion,
+  title = {Opinion Maximization in Social Networks by Modifying Internal Opinions},
+  booktitle = {Advances in Neural Information Processing Systems},
+  author = {Wang, Gengyu and Zhang, Runze and Zhang, Zhongzhi},
+  year = {2025}
+}
+```
